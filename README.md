@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mateus Fonseca from Teófilo Otoni -MG <br><br>- 🔭 I’m working as Analista de Systems <br>- 📚 I'm currently learning Analise e Desenvolvimento de Sistemas<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Mateus Fonseca from Teófilo Otoni -MG <br><br>- 🔭 I’m working as Analista de Systems <br>- 📚 I am trained in Analise e Desenvolvimento de Sistemas<br>- ⚡ In my free time I GYM</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
